@@ -2,7 +2,7 @@
   "name": "pr-react-redux-toolking",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ivan-Oliinyk.github.io/",
+  "homepage": "https://Ivan-Oliinyk.github.io/GithubSearch/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
     "@testing-library/jest-dom": "^5.16.4",

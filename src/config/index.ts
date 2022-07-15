@@ -2,9 +2,9 @@ const config = {
   LS_FAV_KEY: "rfk",
 
   routing: {
-    BASE: "/",
-    HOME: "/home",
-    FAVORITES: "/favorites",
+    BASE: "/GithubSearch",
+    HOME: "/GithubSearch/home",
+    FAVORITES: "/GithubSearch/favorites",
   },
 };
 
